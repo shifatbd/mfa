@@ -1,3 +1,7 @@
-"scripts": {
-  "test": "echo \"Dummy test passed!\" && exit 0"
+{
+  "name": "mfa",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Dummy test passed!\""
+  }
 }
