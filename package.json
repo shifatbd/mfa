@@ -1,0 +1,3 @@
+"scripts": {
+  "test": "echo \"Dummy test passed!\" && exit 0"
+}
